@@ -1,5 +1,8 @@
 ﻿using System;
 
+
+//开闭原则：Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
+//软件实体（类、模块、函数等）都应当对扩展具有开放性，但是对于修改具有封闭性。
 namespace ConsoleApp2
 {
     class Program

@@ -6,6 +6,10 @@
  * 加上Virtual和override，那么就是重写的关系，用vehicle去实例化一个car，显示为"Car is running"
  * 
  * 一个object有多样的实现方法，就是多态，多态有很多实现形式，这里的virtual是虚方法，还有抽象类和接口的其他两种方法
+* Polymorphism is a key aspect of OOP
+*Abstraction, Encapsulation and Inheritance are other keys aspects
+*It means “many forms” and in C# it has two aspects
+
  
      */
 namespace ConsoleApp1
